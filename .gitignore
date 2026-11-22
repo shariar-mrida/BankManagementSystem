@@ -1,0 +1,24 @@
+# Environment & credentials
+.env
+.env.local
+.env.*.local
+
+# Vercel & IDE
+.vercel
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Composer & Node dependencies
+vendor/
+node_modules/
+package-lock.json
+
+# Temporary probe & log files
+*.log
+test_probe.txt
+powershell.exe
